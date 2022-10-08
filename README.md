@@ -9,5 +9,5 @@ Esta sendo implementado diretamente no GitHub
 
 :package: novas funcionalidades
 :up: atualizações 
-:beatle: correção de bug
+:beeatle: correção de bug
 :checkered_flag: release
