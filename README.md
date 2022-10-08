@@ -10,5 +10,5 @@ Esta sendo implementado diretamente no GitHub
 
 - :package: novas funcionalidades
 - :up: atualizações 
-- :beetle: correção de bug
+- :ant: correção de bug
 - :checkered_flag: release
